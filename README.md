@@ -1,4 +1,4 @@
-# 🐱 Github Markdown
+# 🐱 `Github Markdown`
 
 > [!note]
 > 리드미에서 자주 사용하는 마크다운을 정리해 놓았습니다!  
